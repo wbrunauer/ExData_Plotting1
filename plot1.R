@@ -3,7 +3,6 @@
 ##########################################################
 ## libraries
 .libPaths("C:/tmp/R/libs")
-install.packages('data.table',lib="C:/tmp/R/libs")
 library(data.table)
 library(lubridate)
 library(dplyr)
